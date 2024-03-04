@@ -1,5 +1,5 @@
 function github() {
-    window.open('https://github.com/itsuigy/Manejo-de-Eventos');
+    window.open('https://github.com/itsuigy/GU-usuario-contrasena');
 }
 
 function validateForm() {
